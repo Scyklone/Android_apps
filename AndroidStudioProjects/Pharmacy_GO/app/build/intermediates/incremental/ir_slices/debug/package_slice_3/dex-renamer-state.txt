@@ -1,0 +1,4 @@
+#Fri May 17 00:56:46 BOT 2019
+base.0=C\:\\Users\\SCYKL\\AndroidStudioProjects\\Pharmacy_GO\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

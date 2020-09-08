@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="72057f3d-60d5-440c-9fe5-09ca27f23226" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="1210955464">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.closed"
+                        value="6" />
+                    <entry
+                        key="project.open.time.1"
+                        value="1" />
+                    <entry
+                        key="project.open.time.13"
+                        value="1" />
+                    <entry
+                        key="project.open.time.16"
+                        value="1" />
+                    <entry
+                        key="project.open.time.17"
+                        value="1" />
+                    <entry
+                        key="project.open.time.20"
+                        value="1" />
+                    <entry
+                        key="project.open.time.4"
+                        value="1" />
+                    <entry
+                        key="project.open.time.7"
+                        value="1" />
+                    <entry
+                        key="project.opened"
+                        value="7" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="java"
+                        value="2" />
+                    <entry
+                        key="xml"
+                        value="5" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="2" />
+                    <entry
+                        key="XML"
+                        value="5" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry
+                        key="txt"
+                        value="16" />
+                    <entry
+                        key="xml"
+                        value="176" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry
+                        key="PLAIN_TEXT"
+                        value="16" />
+                    <entry
+                        key="XML"
+                        value="176" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider
+                        editor-type-id="android-designer2"
+                        selected="true" />
+                    <provider editor-type-id="text-editor">
+                        <state relative-caret-position="476">
+                            <caret
+                                column="8"
+                                line="28"
+                                selection-end-column="8"
+                                selection-end-line="28"
+                                selection-start-column="8"
+                                selection-start-line="28" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/receiptorder/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true" />
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+            </list>
+        </option>
+    </component>
+    <component
+        name="ProjectFrameBounds"
+        extendedState="6">
+        <option
+            name="y"
+            value="25" />
+        <option
+            name="width"
+            value="1700" />
+        <option
+            name="height"
+            value="970" />
+    </component>
+    <component name="ProjectView">
+        <navigator
+            proportions=""
+            version="1">
+            <foldersAlwaysOnTop value="true" />
+        </navigator>
+        <panes>
+            <pane id="ProjectPane" />
+            <pane id="AndroidView">
+                <subPane>
+                    <expand>
+                        <path>
+                            <item
+                                name="ReceiptOrder"
+                                type="1abcf292:AndroidViewProjectNode" />
+                            <item
+                                name="app"
+                                type="feadf853:AndroidModuleNode" />
+                        </path>
+                        <path>
+                            <item
+                                name="ReceiptOrder"
+                                type="1abcf292:AndroidViewProjectNode" />
+                            <item
+                                name="app"
+                                type="feadf853:AndroidModuleNode" />
+                            <item
+                                name="res"
+                                type="d4f16f75:AndroidResFolderNode" />
+                        </path>
+                        <path>
+                            <item
+                                name="ReceiptOrder"
+                                type="1abcf292:AndroidViewProjectNode" />
+                            <item
+                                name="app"
+                                type="feadf853:AndroidModuleNode" />
+                            <item
+                                name="res"
+                                type="d4f16f75:AndroidResFolderNode" />
+                            <item
+                                name="layout"
+                                type="ddeffd01:AndroidResFolderTypeNode" />
+                        </path>
+        

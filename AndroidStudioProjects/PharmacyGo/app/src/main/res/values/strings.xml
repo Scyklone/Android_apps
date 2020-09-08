@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pharmacy Go!</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Signin">Signin</string>
+    <string name="Info">Info</string>
+    <string name="Send_prescription">Send Prescription</string>
+    <string name="History">History</string>
+    <string name="Reminder">Reminder</string>
+    <string name="Take_pic">Take Picture</string>
+    <string name="Username">Username</string>
+    <string name="Comfirm_password">Confirm Password</string>
+    <string name="account">You do not have an account?</string>
+    <string name="Pharmacy_mail">Pharmacy Email</string>
+    <string name="Name">Name</string>
+    <string name="Lastname">Lastname</string>
+    <string name="Phone">Phone</string>
+    <string name="Plan_medico">Plan Medico</string>
+    <string name="login_button">login_button</string>
+</resources>

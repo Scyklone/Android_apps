@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageButton</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <string name="froyo_is_self_served_frozen_yogurt">FroYo is self-served frozen yogurt</string>
+    <string name="donuts_are_glazed_and_sprinkled_with_candy">Donuts are glazed and sprinkled with candy</string>
+    <string name="ice_cream_sandwiches_have_chocolate_wafers_and_vanilla_filling">Ice Cream sandwiches have chocolate wafers and vanilla filling</string>
+</resources>

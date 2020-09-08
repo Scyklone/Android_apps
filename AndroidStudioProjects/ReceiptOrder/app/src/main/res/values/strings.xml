@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pharmacy Go</string>
+    <string name="pharmacy_go">Pharmacy Go!</string>
+    <string name="name">Name</string>
+    <string name="sign_in">Sign In</string>
+    <string name="exit">Exit</string>
+    <string name="info">Info</string>
+    <string name="Order">Order</string>
+    <string name="textView2">Place Order</string>
+    <string name="product">Product</string>
+    <string name="product1">Product1</string>
+    <string name="product2">Product2</string>
+    <string name="product3">product3</string>
+    <string name="product4">product4</string>
+    <string name="description">Description</string>
+    <string name="information">Information</string>
+</resources>

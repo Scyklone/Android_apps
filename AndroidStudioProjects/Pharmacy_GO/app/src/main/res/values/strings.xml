@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pharmacy_GO</string>
+    <string name="Plan_medico">plan_medico</string>
+    <string name="Phone">phone</string>
+    <string name="Lastname">Lastname</string>
+    <string name="Name">Name</string>
+    <string name="pharmacy_mail">pharmacy_mail</string>
+    <string name="send_prescription">send_perscription</string>
+    <string name="Take_pic">take_pic</string>
+    <string name="Reminder">Reminder</string>
+    <string name="History">History</string>
+    <string name="view_products">View Products</string>
+    <string name="Choose_pic">Choose pic</string>
+</resources>
